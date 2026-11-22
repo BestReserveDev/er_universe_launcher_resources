@@ -1,0 +1,25 @@
+{
+  "version": "1",
+  "authors": [
+    {
+      "username": "Lyubertsy",
+      "avatarRelativePath": "avatars/lyubertsy.jpg",
+      "avatarRawUrl": "https://raw.githubusercontent.com/BestReserveDev/er_universe_launcher_resources/main/avatars/lyubertsy.jpg",
+      "role": "Меинтейнер лаунчера",
+      "description": null,
+      "contacts": {
+        "telegram": null
+      }
+    },
+    {
+      "username": "Чо-хош Пишм",
+      "avatarRelativePath": "avatars/reipashi.jpg",
+      "avatarRawUrl": "https://raw.githubusercontent.com/BestReserveDev/er_universe_launcher_resources/main/avatars/reipashi.jpg",
+      "role": "Корейский философ",
+      "description": null,
+      "contacts": {
+        "telegram": null
+      }
+    }
+  ]
+}
